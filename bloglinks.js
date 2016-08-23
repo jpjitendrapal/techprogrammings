@@ -1,3 +1,4 @@
+<script type="text/javascript">
 var allLinks = document.getElementById("JPAllLinks");
 allLinks.innerHTML =
     "<br/>"
@@ -24,3 +25,4 @@ allLinks.innerHTML =
     +"<li> <a href='http://techprogrammings.blogspot.in/2013/12/wish-your-friend-happy-birthday-or-any-special-moment.html' target='_blank'>Wish your friend with your own words and love </a> </li>"
     +"<li> <a href='http://techprogrammings.blogspot.in/2016/07/create-message-in-hindi-by-typing-in-hinglish-english.html' target='_blank'>Create Message in Hindi by typing in Hinglish</a> </li>"
     +"</ul>"
+</script>
