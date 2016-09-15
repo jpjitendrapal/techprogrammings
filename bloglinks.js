@@ -6,6 +6,7 @@ allLinks.innerHTML =
     +"<ul>"
     +"<li><a href='http://techprogrammings.blogspot.in/2016/04/angular-js-advanced-trick-and-techniques-javascript.html' target='_blank'> AngularJS advanced trick and techniques </a></li>"
     +"<li><a href='http://techprogrammings.blogspot.in/2016/04/input-form-validation-restrict-input-to-allow-only-required-value.html' target='_blank'> Restrict input to allow only required value (jQuery plugin for input type validation)</a></li>"
+
     +"<li> <a href='http://techprogrammings.blogspot.in/2016/09/why-call-and-apply-two-methods-available-in-javascript-difference-call-apply.html' target='_blank'>Why call and apply two methods available in JavaScript</a> </li>"
     +"<li> <a href='http://techprogrammings.blogspot.in/2016/06/form-input-validation-independent-on-full-site-any-where.html' target='_blank'> Automatic Form Input Validation for complete site </a> </li>"
     +"<li><a href='http://techprogrammings.blogspot.in/2015/06/ways-in-javascript-to-create-function.html' target='_blank'> Number of ways you can create function in JavaScript +what are they called</a></li>"
