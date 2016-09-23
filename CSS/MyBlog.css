@@ -1,0 +1,10 @@
+#Header1 .title,#Header1 .descriptionwrapper .description{
+    color:white;
+    font-family:'segoe ui';
+}
+#Header1 .descriptionwrapper .descriptionwrapper {
+    font-style: italic;
+}
+.clear{
+    clear:both;
+}
