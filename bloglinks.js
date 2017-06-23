@@ -11,7 +11,7 @@ allLinks.innerHTML =
     +"<li> <a href='http://techprogrammings.blogspot.in/2016/06/form-input-validation-independent-on-full-site-any-where.html' target='_blank'> Automatic Form Input Validation for complete site </a> </li>"
     +"<li><a href='http://techprogrammings.blogspot.in/2015/06/ways-in-javascript-to-create-function.html' target='_blank'> Number of ways you can create function in JavaScript +what are they called</a></li>"
     +"<li><a href='http://techprogrammings.blogspot.in/2015/06/javascript-9-native-object-constructors.html' target='_blank'> JavaScript Native objects</a></li>"
-    +"<li><a href='http://techprogrammings.blogspot.in/2015/06/private-functions-and-variables-in-JavaScript.html' target='_blank'> How to Create private function in JavaScrip</a></li>"
+    +"<li><a href='http://techprogrammings.blogspot.in/2015/06/private-functions-and-variables-in-JavaScript.html' target='_blank'> How to Create private function in JavaScript</a></li>"
     +"<li><a href='http://techprogrammings.blogspot.in/2015/06/javascript-function-as-object.html' target='_blank'> functions as first class object in JavaScript</a></li>"
     +"<li> <a href='http://techprogrammings.blogspot.in/2015/03/object-oriented-programming-in-JavaScript-Class-in-JavaScript.html' target='_blank'> Object Oriented concept in JavaScript</a> </li>"
     +"<li> <a href='http://techprogrammings.blogspot.in/2015/07/advanced-javascript-questions-answers-interview.html' target='_blank'>Advanced JavaScript questions</a> </li>"
