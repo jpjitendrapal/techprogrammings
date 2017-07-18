@@ -26,5 +26,7 @@ allLinks.innerHTML =
     +"<li> <a href='http://techprogrammings.blogspot.in/2013/07/xml-parser-in-sql-server-t-sql-how-to.html' target='_blank'>XML Parser in SQL Server (T-SQL), How to parse XML in SQL</a> </li>"
     +"<li> <a href='http://techprogrammings.blogspot.in/2013/12/wish-your-friend-happy-birthday-or-any-special-moment.html' target='_blank'>Wish your friend with your own words and love </a> </li>"
     +"<li> <a href='http://techprogrammings.blogspot.in/2016/07/create-message-in-hindi-by-typing-in-hinglish-english.html' target='_blank'>Create Message in Hindi by typing in Hinglish</a> </li>"
+    +"<li> <a href='http://techprogrammings.blogspot.in/2016/05/spread-operator-rest-parameter-in-javascript.html' target='_blank'>Spread operator or Rest parameter or Ellipsis in JavaScript</a> </li>"
+   
     +"</ul>"
 
