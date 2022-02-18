@@ -2,7 +2,7 @@
 var allLinks = document.getElementById("JPAllLinks");
 allLinks.innerHTML =
     "<br/>"
-    +"<p>You also like know about:</p>"
+    +"<p>You also like to know about:</p>"
     +"<ul>"
     +"<li><a href='http://techprogrammings.blogspot.com/2016/04/angular-js-advanced-trick-and-techniques-javascript.html' target='_blank'> AngularJS advanced trick and techniques </a></li>"
     +"<li><a href='http://techprogrammings.blogspot.com/2016/04/input-form-validation-restrict-input-to-allow-only-required-value.html' target='_blank'> Restrict input to allow only required value (jQuery plugin for input type validation)</a></li>"
