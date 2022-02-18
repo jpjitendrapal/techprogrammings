@@ -4,6 +4,8 @@ allLinks.innerHTML =
     "<br/>"
     +"<p>You also like to know about:</p>"
     +"<ul>"
+
++"<li><a href='http://techprogrammings.blogspot.com/2019/03/what-happens-when-you-write-google.com-hit-enter.html' target='_blank'> Do you what happens when you hit url www.goolge.com </a></li>"
 +"<li><a href='http://techprogrammings.blogspot.com/2021/12/debouncing-and-throttling-in-javascript.html' target='_blank'> Debouncing & Throttling </a></li>"
     +"<li><a href='http://techprogrammings.blogspot.com/2016/04/angular-js-advanced-trick-and-techniques-javascript.html' target='_blank'> AngularJS advanced trick and techniques </a></li>"
     +"<li><a href='http://techprogrammings.blogspot.com/2016/04/input-form-validation-restrict-input-to-allow-only-required-value.html' target='_blank'> Restrict input to allow only required value (jQuery plugin for input type validation)</a></li>"
