@@ -4,6 +4,7 @@ allLinks.innerHTML =
     "<br/>"
     +"<p>You also like to know about:</p>"
     +"<ul>"
++"<li><a href='http://techprogrammings.blogspot.com/2021/12/debouncing-and-throttling-in-javascript.html' target='_blank'> Debouncing & Throttling </a></li>"
     +"<li><a href='http://techprogrammings.blogspot.com/2016/04/angular-js-advanced-trick-and-techniques-javascript.html' target='_blank'> AngularJS advanced trick and techniques </a></li>"
     +"<li><a href='http://techprogrammings.blogspot.com/2016/04/input-form-validation-restrict-input-to-allow-only-required-value.html' target='_blank'> Restrict input to allow only required value (jQuery plugin for input type validation)</a></li>"
     +"<li> <a href='http://techprogrammings.blogspot.com/2016/05/spread-operator-rest-parameter-in-javascript.html' target='_blank'>Spread operator or Rest parameter or Ellipsis in JavaScript</a> </li>"
